@@ -1,0 +1,8 @@
+{
+  "name": "Remix EMS 2026 Prompt Maestro v2",
+  "description": "Transforma el compendio EMS 2026 en un workbook de estudio completo con simulacros mediante inteligencia artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
