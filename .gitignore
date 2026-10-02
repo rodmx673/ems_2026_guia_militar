@@ -10,3 +10,6 @@ coverage/
 # Repomix snapshots (generated artifacts, keep out of history)
 descripcion-*.xml
 repomix-output.*
+
+# Vercel CLI local state
+.vercel
